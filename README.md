@@ -1,5 +1,5 @@
 # bullet-journal-capstone
-this was my idea my classmate .ade the repo already! this is my IP.
+this was my idea my classmate made the repo already! this is my IP.
 this project is a project to help users who dont want to store all the natural journals have a place to store there journals safetly and anonomymous
 even to the admins. This project will help users on time management, complete task, but most of all Help you figure out what is benefiting your 
 future or habits that hinder you from completing your task for the day. 
